@@ -46,8 +46,9 @@ const callGenerateEndpoint = async () => {
             <h1>Songwriter AI: The Future of Lyrics</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Songwriter AI is the perfect tool for anyone who wants to improve their songwriting skills. Using AI, it will analyse your lyrics and suggest improvements - including synonyms, antonyms and rhymes. It can even rewrite entire songs instantly, giving you a whole new perspective on your lyrical aptitude.</h2>
-            <h2>Write songs faster. Write songs better. Gain the advantage.</h2>
+          <h2>Write songs faster. Write songs better. Gain the advantage.</h2>
+          <h2>✍️🎵</h2>
+            <h3>Songwriter AI is the perfect tool for anyone who wants to improve their songwriting skills. Using AI, it will analyse your lyrics and suggest improvements - including synonyms, antonyms and rhymes. It can even rewrite entire songs instantly, giving you a whole new perspective on your lyrical aptitude.</h3>
           </div>
         </div>
          {/* Added Code*/}
