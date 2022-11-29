@@ -58,7 +58,7 @@ const callGenerateEndpoint = async () => {
             placeholder="start typing here"
             value={userInput}
             onChange={onUserChangedText}
-          />;
+          />
           {/* New code I added here */}
   <div className="prompt-buttons">
         <a
